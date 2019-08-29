@@ -9,5 +9,6 @@ public class Average {
         int n2 = ap.nextInt("What is the second number?");
         double result = (((double) n1)+((double) n2))/2;
         System.out.println(result);
+        
     }
 }
